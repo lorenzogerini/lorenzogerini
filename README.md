@@ -6,6 +6,7 @@
 - I'm **Lorenzo**, a **Bioengineering** (MSc) and **Computer Engineering** (BSc) graduate at University of Genoa and University of Pisa.
 - I'm interested in XR and ML applications in healthcare. 
 
+---
 
 ### Languages and Tools 🧰 
 
