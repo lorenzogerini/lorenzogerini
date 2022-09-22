@@ -6,6 +6,22 @@
 - I'm **Lorenzo**, a **Bioengineering** (MSc) and **Computer Engineering** (BSc) graduate at University of Genoa and University of Pisa.
 - I'm interested in XR and ML applications in healthcare. 
 
+---
+
+### 🧰 Languages and Tools
+
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />       
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+
+
+<br />
+
+#
+
 
 <!--
 **lorenzogerini/lorenzogerini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
