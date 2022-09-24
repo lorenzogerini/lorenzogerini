@@ -2,6 +2,8 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-gerini-78750b201/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lorenzogerini9@gmail.com)
+[![CV](https://img.shields.io/badge/CV-__-lightgrey)](https://drive.google.com/file/d/1RLUGgRFBLtMnWHPHgKd_zWXzIjJNGZFL/view?usp=sharing)
+
 
 - I'm **Lorenzo**, a **Bioengineering** (MSc) and **Computer Engineering** (BSc) graduate.
 - I'm interested in XR and ML applications in healthcare. 
