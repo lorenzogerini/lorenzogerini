@@ -5,8 +5,8 @@
 [![CV](https://img.shields.io/badge/CV-__-lightgrey)](https://drive.google.com/file/d/1RLUGgRFBLtMnWHPHgKd_zWXzIjJNGZFL/view?usp=sharing)
 
 
-- I'm **Lorenzo**, a **Bioengineering** (MSc) and **Computer Engineering** (BSc) graduate.
-- I'm interested in XR and ML applications in healthcare. 
+- I'm **Lorenzo**, a **Bioengineering** (MSc) and **Computer Engineering** (BSc) graduate with experience in software development and data analysis.
+- I'm interested in XR and machine learning applications in healthcare. 
 
 <br />
 
