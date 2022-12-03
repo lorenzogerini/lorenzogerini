@@ -6,7 +6,7 @@
 
 
 - I'm **Lorenzo**, a **Bioengineering** (MSc) and **Computer Engineering** (BSc) graduate with experience in software development and data analysis.
-- I'm interested in XR and machine learning applications in healthcare. 
+<!-- I'm interested in XR and machine learning applications in healthcare. -->
 
 <br />
 
